@@ -1,0 +1,17 @@
+pelican
+=========
+  
+  install:
+  http://docs.getpelican.com/en/3.1.1/getting_started.html#installing-pelican
+  
+  virtualenv --no-site-packages pelican
+  cd pelican
+  Scripts/activate
+  pip install pelican Markdown
+  
+  md mysite
+  cd mysite
+  pelican-quickstart
+  ...
+  
+  --可完全仿照 https://github.com/mbrochh/mbrochh.github.com
