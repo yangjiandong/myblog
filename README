@@ -1,7 +1,17 @@
 pelican
 =========
   
-  install:
+2013.03.01
+----------
+
+  1. github blog page
+  git branch gh-pages
+  git push origin gh-pages
+
+2013.02.28
+----------
+
+  1. install:
   http://docs.getpelican.com/en/3.1.1/getting_started.html#installing-pelican
   
   virtualenv --no-site-packages pelican
