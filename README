@@ -8,6 +8,11 @@ pelican
   git branch gh-pages
   git push origin gh-pages
 
+  https://username.github.com/repo_name
+  
+  http://www.yassi.org/pelican-on-github-pages-heroku-and-nginx.html
+  https://blog-mking.rhcloud.com/2013/01/16/%E7%94%A8github-pages%E5%92%8Cpelican%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/ 
+
 2013.02.28
 ----------
 
