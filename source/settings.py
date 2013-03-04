@@ -7,7 +7,7 @@ SITENAME = 'martinbrochhaus.com'
 SITEURL = 'http://www.martinbrochhaus.com'
 SITE_URL = SITEURL
 STATIC_PATHS = ['images', ]
-TIMEZONE = 'Asia/Singapore'
+TIMEZONE = 'Asia/Shanghai'#'Asia/Singapore'
 
 
 # =============
@@ -44,7 +44,7 @@ THEME = 'notmyidea'
 
 DISQUS_SITENAME = 'martinbrochhauscom'
 FLATTR = True
-GITHUB_URL = 'http://github.com/mbrochh/mbrochh.github.com'
+GITHUB_URL = 'http://github.com/yangjiandong/myblog'
 GOOGLE_ANALYTICS = 'UA-1147761-33'
 MENUITEMS = (
     ('Archives', '{0}/archives.html'.format(SITEURL)),
