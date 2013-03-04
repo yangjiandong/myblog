@@ -3,8 +3,8 @@
 # ===============
 AUTHOR = 'Yangjiandong'
 DEFAULT_CATEGORY = 'blog'
-SITENAME = 'martinbrochhaus.com'
-SITEURL = 'http://www.martinbrochhaus.com'
+SITENAME = 'yangjandong github blog'
+SITEURL = 'http://yangjiandong.github.com/myblog'
 SITE_URL = SITEURL
 STATIC_PATHS = ['images', ]
 TIMEZONE = 'Asia/Shanghai'#'Asia/Singapore'

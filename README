@@ -8,6 +8,9 @@ pelican
   git branch gh-pages
   git push origin gh-pages
 
+  --所以文件都push到github
+  http://yangjiandong.github.com/myblog/ 
+
 2013.02.28
 ----------
 
