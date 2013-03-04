@@ -1,13 +1,14 @@
 # ===============
 # Basic settings
 # ===============
-AUTHOR = 'Yangjiandong'
+AUTHOR = u'Yangjiandong'
 DEFAULT_CATEGORY = 'blog'
-SITENAME = 'yangjandong github blog'
+SITENAME = u'yangjandong github blog'
 SITEURL = 'http://yangjiandong.github.com/myblog'
 SITE_URL = SITEURL
 STATIC_PATHS = ['images', ]
 TIMEZONE = 'Asia/Shanghai'#'Asia/Singapore'
+DEFAULT_LANG='cn'
 
 
 # =============
