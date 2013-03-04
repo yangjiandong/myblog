@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # ===============
 # Basic settings
 # ===============
@@ -8,8 +9,16 @@ SITEURL = 'http://yangjiandong.github.com/myblog'
 SITE_URL = SITEURL
 STATIC_PATHS = ['images', ]
 TIMEZONE = 'Asia/Shanghai'#'Asia/Singapore'
-DEFAULT_LANG='cn'
 
+#DATE_FORMATS = {
+#    'en':('usa','%a, %d %b %Y'),
+#    'zh':('chs','%Y-%m-%d, %a'),
+#    'jp':('jpn','%Y/%m/%d (%a)'),
+#}
+# windows locale: http://msdn.microsoft.com/en-us/library/cdax410z%28VS.71%29.aspx
+LOCALE = ['usa', 'chs', 'jpn',        # windows
+          'en_US', 'zh_CN', 'ja_JP']  # Unix/Linux
+DEFAULT_LANG = 'zh'
 
 # =============
 # URL settings
